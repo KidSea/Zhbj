@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/example/base/TabDetailPager.java=UTF-8
+encoding//src/com/example/bean/NewsData.java=UTF-8
+encoding//src/com/example/view/HorizontalViewPager.java=UTF-8
+encoding//src/com/example/view/NoScrollViewPager.java=UTF-8
+encoding//src/com/example/view/TopNewsViewPager.java=UTF-8
+encoding//src/com/example/zhbj52/utils/CacheUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/DensityUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/LocalCacheUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/MemoryCacheUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/MyBitmapUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/NetCacheUtils.java=UTF-8
+encoding//src/com/example/zhbj52/utils/PrefUtils.java=UTF-8
